@@ -1,4 +1,4 @@
-# Olá, Ângelo Gabriel
+# Olá, me chamo Ângelo Gabriel
 (SqlServer | Python | HTML | CSS | JavaScript | MySql) 🚀
 
 ## Me encontre em:
