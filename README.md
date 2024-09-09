@@ -1,5 +1,5 @@
 # Olá, me chamo Ângelo Gabriel
-(SqlServer | Python | HTML | CSS | JavaScript | MySql) 🚀
+(Python | HTML | CSS | JavaScript) 🚀
 
 ## Me encontre em:
 
