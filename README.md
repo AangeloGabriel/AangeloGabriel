@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, Ângelo Gabriel
+(SqlServer | Python | HTML | CSS | JavaScript | MySql) 🚀
 
-<!--
-**AangeloGabriel/AangeloGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me encontre em:
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="14" fiil=transparent> Email: angelogabrielaalencar@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="14" fiil=transparent> Linkedin: https://www.linkedin.com/in/%C3%A2ngelo-alves-9bb50122a/ 
+
+### Informações do GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=AangeloGabriel&theme=transparent&count_private=false&show_icons=true&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true" width="380" /><span>&nbsp;&nbsp;&nbsp;</span><img src="https://github-readme-streak-stats.herokuapp.com?user=AangeloGabriel&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=467&hide_border=true&stroke=8F979C&ring=8F979C&fire=8F979C&currStreakNum=8F979C&sideNums=8F979C&currStreakLabel=8F979C&sideLabels=8F979C&dates=8F979C" width="380" />
+<br>
