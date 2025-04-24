@@ -13,3 +13,5 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AangeloGabriel&theme=transparent&show_icons=true&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true)
+
+<br>
